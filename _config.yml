@@ -1,7 +1,7 @@
 name: Osanna Vaughn
 favicon: null
-layout_spectrum: 0.9519840371794999
-typography_spectrum: 0.7203054304700345
+layout_spectrum: 0.76196
+typography_spectrum: 0.53991
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.145395927131176
+  brandStrength: 0.1875
   lightness: 0.8345125401392579
   saturation: 0.9170239064842463
-  rhythmicContrast: 0.9885576397646219
+  rhythmicContrast: 0.5
 purpose: []
